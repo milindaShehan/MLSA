@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am Milinda Shehan Dilhara from Matara, Sri Lanka. I am a first-year computer science undergraduate at the University of Colombo - School of Computing. I completed my primary and secondary education at Rahula College Matara. My passion for technology has led me to pursue a career in computer science, and I am determined to become a skilled professional in this field.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -32,11 +32,12 @@ const description =
  */
 const skillsList = [
   "Web design",
-  "User experience",
-  "Inclusive design",
+  "Graphic design",
+  "UI/UX design",
+  "AI and machine learning",
   "Focus group testing",
   "Mobile user interfaces",
-  "Graphic design",
+  
 ];
 
 /**
